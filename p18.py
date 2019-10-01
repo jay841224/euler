@@ -1,3 +1,4 @@
+#Find the maximum total from top to bottom of the triangle below:
 f = open('D:\\python challenge\\project_euler\\p18.txt', 'r')
 nums = []
 new_nums = []
